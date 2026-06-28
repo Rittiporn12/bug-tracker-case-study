@@ -176,7 +176,7 @@ PostgreSQL Database
 <h3 align="center">Login - Light Mode</h3>
 
 <div align="center">
-  <img src="./screenshots/login-light.png" width="900" alt="Login Light Mode" />
+  <img src="./screenshots/login-dark.png" width="900" alt="Login Light Mode" />
 </div>
 
 <br />
